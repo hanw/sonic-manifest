@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://github.com/" name="origin"/>
+  
+  <default remote="origin" revision="master"/>
+  
+  <project name="hanw/buildcache.git" path="buildcache" revision="5146714bac5bfce515cac56f9e5416671056c54c" upstream="master"/>
+  <project name="hanw/connectal.git" path="connectal" revision="98b122860c02cb8fcbe2a62da2d33e60feb7c648" upstream="master"/>
+  <project name="hanw/fpgamake.git" path="fpgamake" revision="48ad8a71eff652927408ecaba3f116501444acc4" upstream="master"/>
+  <project name="hanw/sonic-lite.git" path="sonic-lite" revision="bfbc6db835e789ded90d8a5a5f17c1ecbec39470" upstream="master"/>
+</manifest>
