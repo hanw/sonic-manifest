@@ -12,10 +12,10 @@ $ chmod a+x ~/bin/repo
 
 ####Download SoNIC repo manifest
 ```
-repo init -u https://github.com/hanw/sonic-manifest.git
+$ repo init -u https://github.com/hanw/sonic-manifest.git
 ```
 
 ####Initialize Development Environment
 ```
-repo sync
+$ repo sync
 ```
