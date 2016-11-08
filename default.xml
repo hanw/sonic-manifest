@@ -14,4 +14,7 @@
 
     <project path="sonic-lite"
         name="hanw/sonic-lite.git" remote="origin" />
+	
+    <project path="p4fpga"
+        name="hanw/p4fpga.git" remote="origin" />
 </manifest>
