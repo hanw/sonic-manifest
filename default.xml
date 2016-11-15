@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote name="origin" fetch="ssh://git@github.com/" />
+	<remote name="origin" fetch="https://github.com/" />
     <default revision="master" remote="origin" />
 
     <project path="connectal"
@@ -11,9 +11,6 @@
 
     <project path="buildcache"
         name="hanw/buildcache.git" remote="origin" />
-
-    <project path="sonic-lite"
-        name="hanw/sonic-lite.git" remote="origin" />
 	
     <project path="p4fpga"
         name="hanw/p4fpga.git" remote="origin" />
